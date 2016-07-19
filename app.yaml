@@ -1,0 +1,9 @@
+application: planes-1356
+version: one
+runtime: php55
+api_version: 1
+
+hanlders:
+
+-url: /.*
+ script: index.php
